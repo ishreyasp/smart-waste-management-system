@@ -17,3 +17,5 @@ The main objectives are as follows:
  - Decreased noise, traffic flow and air pollution as a result of less trucks on the roads
  - Our smart operating system enables two-way communication between the dustbin deployed in the city and service operator
  -  The sensors installed in the containers provide real time information on the fill level. This information helps determine when and where to prioritize collection
+
+#### Refer https://github.com/ishreyasp/smart-waste-management-system/blob/master/documentation.pdf for more details
