@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SmartBin</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="objective">OBJECTIVE</string>
+    <string name="description">
+        Smart waste management is a idea\nwhere we can control lots of problems\nwhich disturbs the society in\npollutionand diseases.\n\nThe waste management has to be done instantly else it leads to irregular management which will have adverse\neffect on nature.\n\nThe Smart waste management is compatible mainly with concept of\nsmart cities.\n\nThe main objectives of our proposed system are as follows:\n
+        1. Monitoring the waste management.\n
+        2. Providing a smart technology for\nwaste system.\n
+        3. Avoiding human intervention.\n
+        4. Reducing human time and effort.\n
+        5. Resulting in healthy and waste\nridden environment.\n\nThis project falls under the category of embedded systems and android applications. </string>
+
+    <string name="About">Prof. Sunil Khot\nProject Guide\nPhone No.: 8605799698</string>
+
+    <string name="about1">Shreyas Purkar\nDeveloper\nPhone No.: 7972585057</string>
+
+    <string name="about2">Harshal Suryawanshi\nDeveloper\nPhone No.: 8668825481</string>
+
+    <string name="about3">Rakesh Salunke\nDeveloper\nPhone No.: 7218753473</string>
+
+</resources>
+

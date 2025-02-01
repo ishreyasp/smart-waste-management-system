@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutUs">
+
+    <!--<include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="391dp"
+        android:layout_height="506dp"
+        android:layout_centerInParent="true"
+        android:paddingLeft="50dp"
+        android:paddingTop="170dp"
+        android:text="@string/About"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="292dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="382dp"
+        android:layout_height="147dp"
+        android:layout_below="@id/toolbar"
+        android:paddingTop="20dp"
+        app:srcCompat="@drawable/smart" />-->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="30dp"
+            app:srcCompat="@drawable/khot1" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="110dp"
+            android:paddingTop="5dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="@string/About" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="30dp"
+            app:srcCompat="@drawable/shreyas" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="90dp"
+            android:paddingTop="5dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="@string/about1" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="30dp"
+            app:srcCompat="@drawable/harshal1" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="90dp"
+            android:paddingTop="5dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="@string/about2" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="30dp"
+            app:srcCompat="@drawable/rakesh" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="66dp"
+            android:paddingLeft="95dp"
+            android:paddingTop="5dp"
+            android:text="@string/about3"
+            android:textColor="@color/colorPrimaryDark" />
+
+    </LinearLayout>
+</ScrollView>
